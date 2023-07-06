@@ -14,6 +14,10 @@ public class Application {
         System.out.println("con = " + con);
 
         close(con);
+
+
+
+
 //        try {
 //            if(con != null con.close();
 //        } catch (SQLException e) {
